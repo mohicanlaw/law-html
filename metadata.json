@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2026-08-30",
-      "codified-date": "2021-07-21",
+      "codified-date": "2021-07-26",
       "platform": {
         "reproducible": "true",
         "version": "2.22.2"
@@ -14,7 +14,7 @@
           "name": "mohicanlaw/law-xml"
         },
         {
-          "commit": "849c7063456c716b72f7558e108a07bbcce6b641",
+          "commit": "8f88858ba688c13dd45fb4c7c925642b59b77bfa",
           "name": "mohicanlaw/law-xml-codified"
         }
       ],
