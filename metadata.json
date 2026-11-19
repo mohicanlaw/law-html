@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2026-11-19",
+      "codified-date": "2021-01-28",
+      "platform": {
+        "reproducible": "true",
+        "version": "2.23.6"
+      },
+      "publication": "publication/2026-11-19",
+      "repositories": [
+        {
+          "commit": "88416c00f412bffbef2c4b885e515158582691c3",
+          "name": "mohicanlaw/law-xml"
+        },
+        {
+          "commit": "af5db8bd5c3b7bc2b24e3b0aa65b8ec2be6e8288",
+          "name": "mohicanlaw/law-xml-codified"
+        }
+      ],
+      "search": {
+        "version": "v2"
+      }
+    },
+    "canonical-urls": {
+      "html": "https://law.mohican.com",
+      "html-bulk": "https://github.com/mohicanlaw/law-html",
+      "law-git": "https://github.com/mohicanlaw/law.git",
+      "static-assets": "https://github.com/mohicanlaw/law-static-assets",
+      "xml-bulk": "https://github.com/mohicanlaw/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "",
+    "history-start": "2021-01-28"
+  }
+}
